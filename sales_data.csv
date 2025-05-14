@@ -1,0 +1,11 @@
+Product,Category,Region,Price,Quantity
+Monitor,Electronics,North,300,10
+Laptop,Electronics,South,1000,5
+Mouse,Electronics,East,25,30
+Keyboard,Electronics,West,45,20
+Phone,Electronics,North,600,8
+Jeans,Clothing,South,40,12
+Shirt,Clothing,East,25,20
+Banana,Grocery,West,1,200
+Apple,Grocery,North,2,150
+TV,Electronics,South,800,4
